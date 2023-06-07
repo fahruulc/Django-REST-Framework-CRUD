@@ -17,6 +17,7 @@ CRUD implementation with DRF using Generics Views
 
 # Run Program
 
+0. pip install -r requirements.txt
 1. py manage.py makemigrations
 2. py manage.py migrate
 3. py manage.py runserver
